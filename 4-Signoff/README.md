@@ -1,0 +1,2 @@
+Branding Sprint Signoff
+Congratulations! You’ve done a great, but it’s not over yet. You’ll need to ship every approved asset as the work done is officially approved. There are two major things you need to ship, mainly: the presentation, brandbook and project assets

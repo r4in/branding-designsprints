@@ -1,0 +1,7 @@
+### A Need For A Branding Framework
+Have you ever been to a logo project before where you get suck into a rabbit hole of endless revisions from the client? Did it ever occur to you - that moment when everything during client brief was crystal clear, but everything he meant was totally the opposite when you started sending over your mockups? Or maybe, you just became the ultimate pixel-pusher (you didn’t even realize it) because things just got out of hand? 
+
+Well, you’re in luck! This guide aims to create a smooth and frictionless workflow with Branding Design Sprints. We’re stepping away from the traditional process - from the client brief, to showing off the final logo mockups. We give huge emphasis to process and client collaboration throughout the different phases of design & conceptualization. So that during the early stages of branding, we can pivot to the right design direction and prevent unecessary arguments & pointless debates.
+
+### Great Design Process = Great Branding Delivery
+We believe that having a great design process will lead to a great branding delivery. Which is why we recommend designers not to work in a vacuum. Collaboration is key. Be open to different ideas and suggestions. This workflow really involves going out and working closely with the stakeholders . I very much understand that there are some clients who doesn’t want to be part of the design process, but I strongly recommend they be. Believe me - it will really pay off.
