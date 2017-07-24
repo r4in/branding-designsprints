@@ -12,4 +12,4 @@ act 2 : showing the challenges & design constraints
 act 3 : presenting the solution
 
 ### Be Flexible
-It is very important to note that your deliverables will wide change throughout the whole process. What makes sense in Round 1 may not make sense in Round 4. Be agile, while you have a general scope of the company’s objectives and goals, the focus shall be varying every round. And this is how the stakeholders elimate what they think they want - not until you start showing to them what they actually need. Keep andWhich also means, that the layout and approach of your presentations will change as well.
+It is very important to note that your deliverables will wide change throughout the whole process. What makes sense in Round 1 may not make sense in Round 4. Be agile, while you have a general scope of the company’s objectives and goals, the focus shall be varying every round. And this is how the stakeholders elimate what they think they want - not until you start showing to them what they actually need. Which also means, that the layout and approach of your presentations will change as well.

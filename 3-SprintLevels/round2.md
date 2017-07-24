@@ -4,4 +4,8 @@ After showcasing your previous sprint, now is a good time to listen to the clien
 
 This is the part where you need to make sense from last cycle's creative chaos and throw in rationale, design & color theories that would support your solutions.
 
-<show image of 6 major concepts considered>
+The Artboard
+![](../assets/2a.png)
+
+The Branding Delivery #2
+![](../assets/2b.png)

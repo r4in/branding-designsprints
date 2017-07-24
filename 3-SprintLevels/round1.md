@@ -6,4 +6,8 @@ Often times, the thought process is usually overlooked during presentations of p
 
 “Choosing what to show and not show is a fine art and you will get more comfortable with that over time” -Bill Kenney, Sidecar Studios
 
-<image of the presentation of wild ideas>
+The Artboard
+![](../assets/1a.png)
+
+The Branding Delivery #1
+![](../assets/1b.png)
