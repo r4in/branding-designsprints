@@ -11,5 +11,3 @@ Once the contract has been sealed, it’s time to get working! Setup a kickoff m
 
 99% of the time, clients are never aware of your design process (different agencies have their own style, but everyone is more or less following the same principles) Typically, this is how our branding workflow is:
 ![](../assets/branding-workflow.png)
-
-Now that you’ve discussed the general workflow, it’s time to zoom in abit and break it down further. Here’s the [Branding Design Sprint Workflow](https://www.gitbook.com/book/francisalturas/branding-kickoff) that I previously wrote.

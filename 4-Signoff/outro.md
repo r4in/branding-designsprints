@@ -14,4 +14,4 @@ This is a collective remix from all these great references!
 
 [The Design Sprint](http://www.gv.com/sprint/)
 
-Did I missed something? Let me know! :)
+Did I missed anything? Let me know! :)
