@@ -5,11 +5,13 @@ A sprint deliverable is the creative presentation of your concepts and progress,
 
 For startups, you could try and fit all of these in 5 days!
 
-Monday - Kickoff
-Tuesday - Sprint Lvl 1
-Wednesday - Sprint Lvl 2
-Thursday - Sprint Lvl 3
-Friday - Assets Delivery
+![](../assets/startups.png)
+
+- Monday : Kickoff
+- Tuesday : Sprint Lvl 1
+- Wednesday : Sprint Lvl 2
+- Thursday : Sprint Lvl 3
+- Friday : Assets Delivery
 
 This works great, especially if the stakeholders are the co-founders in your startup :)
 
